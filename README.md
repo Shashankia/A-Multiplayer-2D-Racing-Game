@@ -10,6 +10,7 @@
 🚀 **Learning Outcome:**  
 This project deepened my understanding of **game loops**, **event handling**, and **sprite-based graphics** in Python. It also helped improve my OOP concepts and code structuring in real-time applications.
 
-🔗 [View on GitHub](https://github.com/Shashankia/-Racing-Game)
+🔗 [View on GitHub](https://github.com/Shashankia/A-Multiplayer-2D-Racing-Game
+)
 
 ![Screenshot (221)](https://github.com/user-attachments/assets/c145d00d-b9af-44be-bd34-f1ed5e261030)
